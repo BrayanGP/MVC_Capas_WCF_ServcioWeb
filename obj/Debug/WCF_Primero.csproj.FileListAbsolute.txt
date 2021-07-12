@@ -1,0 +1,16 @@
+C:\Users\DOTNET4\source\repos\WCF_Primero\bin\WCF_Primero.dll.config
+C:\Users\DOTNET4\source\repos\WCF_Primero\bin\WCF_Primero.dll
+C:\Users\DOTNET4\source\repos\WCF_Primero\bin\WCF_Primero.pdb
+C:\Users\DOTNET4\source\repos\WCF_Primero\bin\Datos_BD.dll
+C:\Users\DOTNET4\source\repos\WCF_Primero\bin\Entidades.dll
+C:\Users\DOTNET4\source\repos\WCF_Primero\bin\EntityFramework.dll
+C:\Users\DOTNET4\source\repos\WCF_Primero\bin\EntityFramework.SqlServer.dll
+C:\Users\DOTNET4\source\repos\WCF_Primero\bin\Negocio.dll
+C:\Users\DOTNET4\source\repos\WCF_Primero\bin\Newtonsoft.Json.dll
+C:\Users\DOTNET4\source\repos\WCF_Primero\bin\EntityFramework.xml
+C:\Users\DOTNET4\source\repos\WCF_Primero\bin\EntityFramework.SqlServer.xml
+C:\Users\DOTNET4\source\repos\WCF_Primero\bin\Newtonsoft.Json.xml
+C:\Users\DOTNET4\source\repos\WCF_Primero\obj\Debug\WCF_Primero.csproj.CoreCompileInputs.cache
+C:\Users\DOTNET4\source\repos\WCF_Primero\obj\Debug\WCF_Primero.csproj.CopyComplete
+C:\Users\DOTNET4\source\repos\WCF_Primero\obj\Debug\WCF_Primero.dll
+C:\Users\DOTNET4\source\repos\WCF_Primero\obj\Debug\WCF_Primero.pdb
